@@ -8,4 +8,4 @@ Figure_2 contains the merger model for KN Cen
 
 SV_Per contains the merger model.
 
-Please Cite the Paper (on Arxiv Soon) if you choose to utilize any material.
+Please Cite the Paper (on Arxiv Soon) should you choose to utilize any material.
